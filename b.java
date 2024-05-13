@@ -1,1 +1,1 @@
-uksdhkfgjfh
+class B{}
