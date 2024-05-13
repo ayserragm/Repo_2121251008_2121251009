@@ -1,0 +1,29 @@
+Proje Adı: Örnek Proje
+
+Analiz Görevi:
+
+Bu belge, "Örnek Proje" adlı yazılım projesinin analiz aşamasında belirlenen gereksinimleri ve sistem gereksinimlerini içermektedir.
+
+1. Proje Amaçları:
+   - Yeni bir müşteri yönetim sistemi oluşturmak.
+   - Müşteri bilgilerini kaydetmek, güncellemek ve silmek için kullanıcı dostu bir arayüz sağlamak.
+
+2. Kapsam:
+   - Kullanıcıların müşteri bilgilerini eklemelerine, güncellemelerine ve sorgulamalarına olanak tanıyan bir web tabanlı uygulama geliştirilecek.
+   - Müşteri bilgilerinin güvenli bir şekilde depolanması sağlanacak.
+
+3. Gereksinimler:
+   a. Kullanıcıların sisteme giriş yapabilmesi gerekmektedir.
+   b. Yeni müşteri bilgileri ekleyebilmelidir.
+   c. Mevcut müşteri bilgilerini güncelleyebilmelidir.
+   d. Müşteri bilgilerini silebilmelidir.
+   e. Müşteri bilgilerini sorgulayabilmelidir.
+   f. Kullanıcılar arasında yetki düzeyleri olmalıdır (örneğin, yönetici ve kullanıcı).
+
+4. Sistem Gereksinimleri:
+   - Web uygulaması için modern tarayıcılarla uyumlu olmalıdır (Chrome, Firefox, Safari, vb.).
+   - Sunucu tarafında PHP ve MySQL kullanılacaktır.
+   - Veritabanı güvenliği sağlanmalıdır.
+   - Kullanıcıların güvenliği için giriş işlemleri SSL/TLS ile şifrelenmelidir.
+   - Kullanıcı arayüzü basit ve kullanıcı dostu olmalıdır.
+
